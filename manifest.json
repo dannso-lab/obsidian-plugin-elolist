@@ -1,0 +1,11 @@
+{
+	"id": "elolist-plugin",
+	"name": "ELO list priority helper",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Helps to establish and keep track of priority lists such as a backlog of longterm todos.",
+	"author": "dannso",
+	"authorUrl": "https://github.com/dannso-lab",
+	"fundingUrl": "https://github.com/dannso-lab",
+	"isDesktopOnly": false
+}
